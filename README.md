@@ -3,6 +3,8 @@
 ## Author: Carlos Carret Miranda
 ## University of Havana, Faculty of Mathematics and Computer Science (MATCOM)
 
+## [github link](https://github.com/Krtucho/NLP_Curse)
+
 ### 1
 A simple Python program that computes the diversity_measure is in file diversity_measure.py
 
